@@ -1,0 +1,24 @@
+.sidebar{
+    border: 1px solid black;
+    height: 100vh;
+    flex: 0.2;
+    background-color: black;
+    color: white;
+    min-width: 230px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.logo{
+
+    object-fit: contain;
+    height: 70px;
+    width: 300px;
+    margin-right: 20px;
+    
+}
+.sidebar_titile{
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 12px;
+}
